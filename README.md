@@ -1,4 +1,47 @@
-# Minecraft Mob Helper Tool
+# Phonecoding Tools Collection
+
+A collection of fun and useful coding projects!
+
+---
+
+## 🚂 Train Station Finder
+
+A web-based app that finds the nearest train station to your current location using geolocation and OpenStreetMap data.
+
+### Features
+
+- **Auto-Location**: Uses your browser's geolocation to find your position
+- **Real-Time Search**: Queries OpenStreetMap for nearby train stations (within 10km)
+- **Distance Calculation**: Shows exact distance to each station
+- **Sorted Results**: Displays up to 10 nearest stations, sorted by distance
+- **Interactive Maps**: Direct links to Google Maps for navigation
+- **Station Details**: Shows operator, network, and coordinates
+
+### How to Use
+
+1. Open `train_station_finder.html` in your web browser
+2. Click "Find Nearest Station"
+3. Allow location access when prompted
+4. View the nearest train stations with distances and get directions!
+
+### What You'll See
+
+- Your current coordinates
+- List of nearby stations sorted by distance
+- Distance in meters (< 1km) or kilometers
+- Station operator and network information
+- Direct links to Google Maps for walking directions
+
+### Perfect For:
+
+- Travelers looking for public transport
+- Commuters finding new routes
+- Exploring unfamiliar cities
+- Quick reference when you need to catch a train
+
+---
+
+## 🎮 Minecraft Mob Helper Tool
 
 A fun interactive CLI tool to help you and your kids learn about Minecraft mobs, calculate combat strategies, and plan XP farming!
 
@@ -99,3 +142,30 @@ This is a great educational tool! Kids learn:
 - Game mechanics
 
 Have fun exploring Minecraft together!
+
+---
+
+## 💻 Hollywood Hacker Simulator
+
+A fun terminal-based hacker simulator with Hollywood-style visual effects! Totally fake but looks amazing - perfect for impressing kids and having fun.
+
+### Features
+
+- Realistic-looking terminal animations
+- Multiple "hacking" scenarios
+- Matrix-style effects
+- Colorful terminal output
+- Type-writer effects
+
+### How to Use
+
+```bash
+python3 hacker_simulator.py
+```
+
+### Perfect For:
+
+- Entertainment and fun
+- Teaching kids about computers in a fun way
+- Pranks (harmless!)
+- Understanding how Hollywood portrays "hacking" vs reality
